@@ -1,4 +1,4 @@
-E-Commerce Market Comparison: Amazon UK vs. Amazon Brazil
+## E-Commerce Market Comparison: Amazon UK vs. Amazon Brazil
 
 A cross-market e-commerce analytics project comparing product demand, pricing, customer engagement, category performance, and consumer behavior on Amazon UK and Amazon Brazil.
 
